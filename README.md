@@ -1,6 +1,7 @@
 ### Hi there Andrés Rincón👋
 
 - 🔭 Frontend Developer
+- 👨‍💻 Tester automatizacion.
 - 🌱 Estudiante Ingenieria de sistemas
 - 👨‍💻 Estudiando hacking etico
 <hr>
