@@ -8,8 +8,8 @@
 
 ## 🚀 Sobre mí
 - 🔍 Especializado en **automatización de pruebas web y API**  
-- 📦 Experiencia con **Selenium, Serenity BDD, Cucumber**, **Postman/Newman** y **RestAssured**  
-- 🌱 Aprendiendo **CI/CD**, **Node.js** y **MongoDB**  
+- 📦 Experiencia con **Selenium, Serenity BDD, Cucumber**, **Postman** y **RestAssured**  
+- 🌱 Aprendiendo **CI/CD**, **DevOps** y estrategias avanzadas para optimizar la calidad del software  
 - 🎯 Meta profesional: Convertirme en **Senior QA Automation**  
 
 ---
