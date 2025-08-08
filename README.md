@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 - 🔍 Especializado en **automatización de pruebas web y API**  
-- 📦 Experiencia con **Selenium, Serenity BDD, Cucumber** y **Postman/Newman**  
+- 📦 Experiencia con **Selenium, Serenity BDD, Cucumber**, **Postman/Newman** y **RestAssured**  
 - 🌱 Aprendiendo **CI/CD**, **Node.js** y **MongoDB**  
 - 🎯 Meta profesional: Convertirme en **Senior QA Automation**  
 
@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Serenity_BDD_logo.svg/512px-Serenity_BDD_logo.svg.png" width="50" height="50" title="Serenity BDD"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Rest_API_Logo.png" width="50" height="50" title="REST API"/>
 </div>
 
 ---
