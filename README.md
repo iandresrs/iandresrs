@@ -23,8 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Serenity_BDD_logo.svg/512px-Serenity_BDD_logo.svg.png" width="50" height="50" title="Serenity BDD"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Rest_API_Logo.png" width="50" height="50" title="REST API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
+          
+          
 </div>
 
 ---
