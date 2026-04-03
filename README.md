@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC4,50:A855F7,100:38BDF8&height=220&section=header&text=Andrés%20Rincón&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Security%20Mindset&descColor=e0d7ff&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Automatizando+pruebas+que+importan+✨;Pensando+en+calidad+y+seguridad+juntas+🛡️;Semi-Senior+QA+·+En+camino+a+Senior+🚀;Colombia+🇨🇴+·+Abierto+a+oportunidades" alt="Typing" />
-</a>
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
