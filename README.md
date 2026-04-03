@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=a855f7&labelColor=1e1b4b&label=Visitas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
@@ -158,12 +157,6 @@ Explorando el mundo del **ethical hacking** con foco en OWASP Top 10, análisis 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&background=1e1b4b&stroke=6C3FC4&ring=a855f7&fire=38bdf8&currStreakNum=ffffff&sideNums=e0d7ff&currStreakLabel=a855f7&sideLabels=a855f7&dates=9ca3af&border=6C3FC4&border_radius=12" width="98%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=1e1b4b&color=a855f7&line=38bdf8&point=ffffff&area=true&area_color=6C3FC4&hide_border=false&border_color=6C3FC4&radius=12" width="98%"/>
 
 </div>
 
