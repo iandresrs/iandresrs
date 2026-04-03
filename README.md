@@ -1,283 +1,195 @@
 <div align="center">
 
-<!-- TERMINAL HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003322,100:00ff9f&height=200&section=header&text=Andrés%20Rincón&fontSize=55&fontColor=00ff9f&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Security-Minded%20Tester&descColor=00c3ff&descSize=18&animation=twinkling" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+QA+Automation+Engineer;%24+mindset+%E2%86%92+Quality+%2B+Security+First;%24+status+%E2%86%92+Semi-Senior+%7C+Growing+to+Senior;%24+location+%E2%86%92+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%24+mission+%E2%86%92+Breaking+Apps+Before+Hackers+Do" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC4,50:A855F7,100:38BDF8&height=220&section=header&text=Andrés%20Rincón&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Security%20Mindset&descColor=e0d7ff&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- PROFILE BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=andresrincon&style=for-the-badge&color=00ff9f&labelColor=0d1117&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00c3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:tu@email.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Automatizando+pruebas+que+importan+✨;Pensando+en+calidad+y+seguridad+juntas+🛡️;Semi-Senior+QA+·+En+camino+a+Senior+🚀;Colombia+🇨🇴+·+Abierto+a+oportunidades" alt="Typing" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=a855f7&labelColor=1e1b4b&label=Visitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 🙋‍♂️ Sobre mí
+
+Soy un **QA Automation Engineer** colombiano apasionado por construir software confiable desde adentro. Me especializo en automatizar pruebas web y API, y cada vez más integro una **mentalidad de seguridad** en mi proceso — porque encontrar el bug antes que el usuario (o el atacante) es lo que distingue a un buen tester.
+
+Actualmente curso **Ingeniería de Sistemas**, soy **Técnico en Sistemas**, y llevo mi carrera con enfoque claro: crecer hacia el nivel Senior combinando calidad y seguridad en cada proyecto.
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    > SYSTEM INITIALIZED                      ║
-║           QA Automation · Security Mindset · DevOps          ║
-║         "Breaking apps before hackers do it first."          ║
-╚══════════════════════════════════════════════════════════════╝
+📍 Colombia   🎓 Ing. de Sistemas (en curso)   🌱 Aprendiendo DevOps & CiberSeg
 ```
-
-</div>
 
 ---
 
-## 👨‍💻 `$ cat about_me.txt`
+## 🔐 QA + Security Mindset
 
-```yaml
-name:       Andrés Rincón
-role:       QA Automation Engineer
-level:      Semi-Senior → Senior (in progress)
-location:   Colombia 🇨🇴
-education:
-  - Técnico en Sistemas
-  - Ingeniería de Sistemas (en curso)
-focus:
-  - Automatización de pruebas Web & API
-  - Security Testing & Quality Assurance
-  - CI/CD Integration & DevOps Practices
-philosophy: "La calidad no es un accidente — es el resultado
-             de pruebas inteligentes y una mentalidad de seguridad."
-```
-
-> Soy un QA Automation Engineer apasionado por construir **pipelines de calidad robustos** que van más allá de encontrar bugs — pienso como un atacante para anticipar vulnerabilidades antes de que lleguen a producción. Combino automatización de pruebas con principios de ciberseguridad para entregar software confiable, seguro y de alto rendimiento.
-
----
-
-## 🔐 `$ ./qa_security_mindset.sh`
+> Mi diferencial: no solo busco bugs funcionales — **pienso como atacante para anticipar fallos de seguridad antes de que lleguen a producción.**
 
 <div align="center">
 
-| 🧪 QA Thinking | 🛡️ Security Thinking |
-|:---:|:---:|
-| ¿Qué puede fallar? | ¿Qué puede ser explotado? |
+| 🧪 Como QA pienso... | 🛡️ Como Security pienso... |
+|:---|:---|
+| ¿Qué puede salir mal? | ¿Qué puede ser explotado? |
 | Cobertura de casos de prueba | Superficie de ataque |
 | Regresión automatizada | Pruebas de intrusión |
-| Reporte de bugs | Reporte de vulnerabilidades |
-| CI/CD con quality gates | CI/CD con security gates |
-| Validación de inputs | Sanitización contra inyecciones |
+| Validación de formularios | Protección contra inyecciones |
+| Quality gates en CI/CD | Security gates en CI/CD |
 
 </div>
 
-> **La intersección entre QA y Security no es coincidencia — es la evolución natural de un tester que piensa en profundidad.**
-
 ---
 
-## 🧪 `$ ls -la qa_automation/`
+## 🧪 QA Automation
 
 <div align="center">
 
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117)
-![Playwright](https://img.shields.io/badge/Playwright-Testing-45ba4b?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0d1117)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=0d1117)
-![Serenity](https://img.shields.io/badge/Serenity-BDD-00c3ff?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117)
-![RestAssured](https://img.shields.io/badge/RestAssured-API_Testing-00ff9f?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117)
-![Postman](https://img.shields.io/badge/Postman-API_Collections-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
-![JUnit](https://img.shields.io/badge/JUnit5-Testing-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=0d1117)
-![TestNG](https://img.shields.io/badge/TestNG-Framework-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber%20BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-A855F7?style=for-the-badge&logo=java&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-38BDF8?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
-```bash
-$ qa_coverage --report
-  ✅ Web UI Automation    ████████████████████  95%
-  ✅ API Testing          ████████████████░░░░  80%
-  ✅ BDD / Gherkin        ████████████████████  90%
-  ✅ Test Design          ██████████████░░░░░░  75%
-  🔄 Performance Testing  ████████░░░░░░░░░░░░  40%
-  🔄 Security Testing     ██████░░░░░░░░░░░░░░  30%
-```
+- ✅ Automatización Web con **Selenium + Cucumber + Serenity BDD**
+- ✅ Pruebas de API REST con **RestAssured y Postman**
+- ✅ Diseño de casos de prueba con enfoque **BDD / Gherkin**
+- ✅ Aplicación de **Page Object Model** y patrones de diseño en test code
+- 🔄 Performance Testing y pruebas de seguridad (en progreso)
 
 ---
 
-## ⚙️ `$ systemctl status devops_skills`
+## ⚙️ DevOps & CI/CD
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117)
-![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=0d1117)
-![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
-```
-● devops_skills.service — Active: learning ↗ (running) since 2024
-  CI/CD Pipelines:    [██████░░░░] Intermediate
-  Docker:             [████░░░░░░] Basic → Growing
-  GitHub Actions:     [███████░░░] Intermediate
-  Infrastructure:     [████░░░░░░] Exploring
-```
+Construyendo experiencia integrando pipelines de calidad en flujos CI/CD — ejecutando suites de pruebas automáticamente en cada pull request y manteniendo entornos con Docker.
 
 ---
 
-## 🛡️ `$ nmap --skills cybersecurity/`
+## 🛡️ Ciberseguridad & Ethical Hacking
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117)
-![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-6C3FC4?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
-```
-[*] Scanning cybersecurity skill tree...
-  [+] OWASP Top 10 Awareness     ✅ Active
-  [+] SQL Injection Testing       ✅ Active
-  [+] XSS Vulnerability Testing  ✅ Active
-  [~] Burp Suite (Web Proxy)     🔄 In Progress
-  [~] Network Penetration        🔄 In Progress
-  [~] CTF Challenges             🔄 In Progress
-```
+Explorando el mundo del **ethical hacking** con foco en OWASP Top 10, análisis de vulnerabilidades web (XSS, SQLi, autenticación rota) y herramientas de análisis de red.
 
 ---
 
-## 🛠️ `$ tree technologies/`
+## 🛠️ Tecnologías y Herramientas
 
-### 💻 Lenguajes de Programación
+### 💻 Lenguajes
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" title="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" title="CSS3"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="52" height="52" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="52" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="52" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="52" title="CSS3"/>
 </div>
 
 ### 🗄️ Bases de Datos
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55" title="MongoDB"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" title="MySQL"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="52" height="52" title="MongoDB"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="52" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="52" height="52" title="MySQL"/>
 </div>
 
 ### 🧪 QA & Automatización
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="55" height="55" title="Selenium"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="55" height="55" title="Cucumber"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="55" height="55" title="Playwright"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" title="Postman"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="55" height="55" title="Gradle"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="52" height="52" title="Selenium"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="52" height="52" title="Cucumber"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="52" height="52" title="Playwright"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="52" height="52" title="Postman"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="52" height="52" title="Gradle"/>
 </div>
 
-### ⚙️ DevOps & Herramientas
+### ⚙️ DevOps & Otros
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52" title="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="52" height="52" title="Jenkins"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="52" title="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="52" height="52" title="Jira"/>
+</div>
+
+---
+
+## 📊 Mis estadísticas en GitHub
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" title="Docker"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55" title="Jenkins"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55" height="55" title="Jira"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&bg_color=1e1b4b&title_color=a855f7&icon_color=38bdf8&text_color=e0d7ff&border_color=6C3FC4&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&bg_color=1e1b4b&title_color=a855f7&text_color=e0d7ff&border_color=6C3FC4&border_radius=12&langs_count=8" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&background=1e1b4b&stroke=6C3FC4&ring=a855f7&fire=38bdf8&currStreakNum=ffffff&sideNums=e0d7ff&currStreakLabel=a855f7&sideLabels=a855f7&dates=9ca3af&border=6C3FC4&border_radius=12" width="98%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=1e1b4b&color=a855f7&line=38bdf8&point=ffffff&area=true&area_color=6C3FC4&hide_border=false&border_color=6C3FC4&radius=12" width="98%"/>
 
 </div>
 
 ---
 
-## 📊 `$ git log --stats`
+## 🚀 Proyectos Destacados
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00ff9f&icon_color=00c3ff&text_color=c9d1d9&border_color=00ff9f&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=transparent&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9&border_color=00ff9f&border_radius=10&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=transparent&background=0d1117&stroke=00ff9f&ring=00c3ff&fire=00ff9f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00c3ff&sideLabels=00c3ff&dates=888888&border=00ff9f&border_radius=10" width="98%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=0d1117&color=00ff9f&line=00c3ff&point=00ff9f&area=true&area_color=003322&hide_border=false&border_color=00ff9f&radius=10" width="98%"/>
-
-</div>
+| 🔬 Proyecto | Stack | Descripción |
+|:---|:---:|:---|
+| **API Test Framework** | Java · RestAssured · JUnit | Framework de pruebas API con reportes automáticos y validación de esquemas |
+| **Web Automation Suite** | Selenium · Cucumber · Serenity | Suite BDD completa con Page Object Model y generación de reportes |
+| **Security Test Cases** | Python · OWASP | Casos de prueba enfocados en OWASP Top 10: XSS, SQLi, Auth bypass |
+| **CI/CD QA Pipeline** | GitHub Actions · Docker | Pipeline que ejecuta la suite de pruebas automáticamente en cada PR |
 
 ---
 
-## 🚀 `$ ls -la projects/ --featured`
+## 🎯 Objetivo Profesional
 
 <div align="center">
 
-| Proyecto | Stack | Descripción | Status |
-|:---|:---:|:---|:---:|
-| 🧪 **[API Test Framework](https://github.com/TU_USERNAME)** | Java · RestAssured · JUnit | Framework de pruebas API con reportes automáticos y validación de esquemas JSON | ✅ Activo |
-| 🌐 **[Web Automation Suite](https://github.com/TU_USERNAME)** | Selenium · Cucumber · Serenity | Suite BDD completa con Page Object Model y reportes Serenity | ✅ Activo |
-| 🔐 **[Security Test Cases](https://github.com/TU_USERNAME)** | Python · OWASP | Casos de prueba enfocados en OWASP Top 10: XSS, SQLi, Auth | 🔄 En progreso |
-| ⚡ **[CI/CD QA Pipeline](https://github.com/TU_USERNAME)** | GitHub Actions · Docker | Pipeline de calidad con ejecución automática de tests en cada PR | 🔄 En progreso |
+> *"Mi meta es ser un **Senior QA Automation Engineer** con especialización en **Security Testing** — capaz de diseñar estrategias de calidad de extremo a extremo que protejan tanto la funcionalidad como la seguridad del software. Busco equipos donde la calidad no sea un paso final, sino parte del ADN del producto."*
 
-</div>
+<br/>
 
----
-
-## 🎯 `$ cat mission.txt`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     OBJETIVO PROFESIONAL                         ║
-║                                                                  ║
-║  Convertirme en un Senior QA Automation Engineer con sólida      ║
-║  especialización en Security Testing, capaz de diseñar           ║
-║  estrategias de calidad de extremo a extremo que protejan        ║
-║  tanto la funcionalidad como la seguridad del software.          ║
-║                                                                  ║
-║  Busco equipos donde la calidad y la seguridad no sean           ║
-║  etapas finales, sino parte del ADN del desarrollo.              ║
-║                                                                  ║
-║  > Open to work: Full-time · Remote · Internacional              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-[![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-QA_Automation_|_Security_Testing-00ff9f?style=for-the-badge&labelColor=0d1117)](mailto:tu@email.com)
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-QA_Automation_·_Security_Testing-a855f7?style=for-the-badge&labelColor=1e1b4b)](mailto:tu@email.com)
+[![Remote](https://img.shields.io/badge/Modalidad-Remote_%2F_Híbrido-38bdf8?style=for-the-badge&labelColor=1e1b4b)](mailto:tu@email.com)
 
 </div>
 
@@ -285,11 +197,8 @@ $ qa_coverage --report
 
 <div align="center">
 
-```
-> "En QA, no buscamos bugs. Buscamos confianza."
-> "En Security, no esperamos ataques. Los anticipamos."
-```
+**✨ Gracias por visitar mi perfil — si tienes un proyecto o una oportunidad interesante, ¡hablemos!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:003322,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A855F7,100:6C3FC4&height=120&section=footer" width="100%"/>
 
 </div>
